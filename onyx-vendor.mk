@@ -2223,8 +2223,6 @@ PRODUCT_PACKAGES += \
     libVoiceSdk \
     libWlanServiceJni \
     libXMFaceHeadBodyTrack \
-    lib_AIVC_decoder \
-    lib_AIVC_encoder \
     lib_bt_lhdc \
     lib_bt_mihc \
     libadm \
@@ -2549,13 +2547,9 @@ PRODUCT_PACKAGES += \
     libqcodec2_imgtxrfilter \
     libqcodec2_mockfilter \
     libqcodec2_platform \
-    libqcodec2_psfilter \
-    libqcodec2_rffilter \
-    libqcodec2_srfilter \
     libqcodec2_streaminteg_filter \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
-    libqcodec2_videofrcfilter \
     libqcrilDataModule \
     libqcrilNr \
     libqcrilNrCellInfoModule \
