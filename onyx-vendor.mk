@@ -3313,6 +3313,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentYGoogleHEXAGON_WIDEBAND \
     AtFwd2 \
     ImsRcsService \
+    PowerOffAlarm \
     QCC \
     QesdkSysService \
     QtiTelephonyService \
@@ -3327,6 +3328,7 @@ PRODUCT_PACKAGES += \
     uimservicelibrary \
     com.android.hotwordenrollment.common.util \
     qcrilhook \
+    vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.ims.connection-V1.0-java \
     vendor.qti.ims.connectionaidlservice-V1-java \
     vendor.qti.ims.factory-V2.0-java \
