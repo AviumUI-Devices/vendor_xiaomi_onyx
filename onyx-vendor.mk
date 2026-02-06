@@ -2391,6 +2391,8 @@ PRODUCT_PACKAGES += \
     libizat_client_api \
     libizat_core \
     libjnihelper \
+    libjpegdecoder_prebuilt \
+    libjpegencoder_prebuilt \
     libkcl \
     libkernelmanager \
     libkeymasterdeviceutils \
@@ -2687,6 +2689,7 @@ PRODUCT_PACKAGES += \
     libtrustedapploader \
     libubifocus \
     libubwcp \
+    libultrahdr_prebuilt \
     libultrasound_notify \
     libvideoml \
     libvideoservice_utils \
