@@ -3122,6 +3122,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss-service.xml \
     vendor.xiaomi.hw.touchfeature-service.xml \
     vendor.xiaomi.sensor.citsensorservice.aidl.xml \
+    KmInstallKeybox \
     SoterProvisioningTool \
     adpl \
     adsprpcd \
