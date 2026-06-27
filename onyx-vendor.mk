@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/misound_karaokemix_res.bin:$(TARGET_COPY_OUT_ODM)/etc/audio/misound_karaokemix_res.bin \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/misoundsa_spk_config.bin:$(TARGET_COPY_OUT_ODM)/etc/audio/misoundsa_spk_config.bin \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/sku_tuna/adsp_sleep_monitor.conf:$(TARGET_COPY_OUT_ODM)/etc/audio/sku_tuna/adsp_sleep_monitor.conf \
-    vendor/xiaomi/onyx/proprietary/odm/etc/audio/sku_tuna/mixer_paths_overlay_dynamic.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sku_tuna/mixer_paths_overlay_dynamic.xml \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/sku_tuna/mixer_paths_overlay_static.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sku_tuna/mixer_paths_overlay_static.xml \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/sku_tuna/mixer_paths_tuna_mtp.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sku_tuna/mixer_paths_tuna_mtp.xml \
     vendor/xiaomi/onyx/proprietary/odm/etc/audio/sku_tuna/resourcemanager_tuna_mtp.xml:$(TARGET_COPY_OUT_ODM)/etc/audio/sku_tuna/resourcemanager_tuna_mtp.xml \
